@@ -1,3 +1,8 @@
-# static-html-template
+# Hello, World
 
-Use this template to create static HTML websites and deploy them on Render.
+My first app!
+
+# How to run this app
+
+- `bin/server`
+- open your live server by clicking on the link in the terminal
